@@ -181,6 +181,23 @@
 			<artifactId>guava</artifactId>
 			<version>18.0</version>
 		</dependency>
+		
+		<!-- maven编译的时候需要，打包的时候不需要把他打到WEB-INFO/lib目录里面 -->
+  		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.0.1</version>
+			<scope>provided</scope>
+		</dependency>
+		<!-- maven编译的时候需要，打包的时候不需要把他打到WEB-INFO/lib目录里面 -->
+
+        <!-- junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.8.2</version>
+        </dependency>
+        <!-- junit -->
 
 	
   </dependencies>
