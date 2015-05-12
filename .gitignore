@@ -4,3 +4,4 @@
 .classpath
 *.log
 /target/
+src/main/resources/myself
