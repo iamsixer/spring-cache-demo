@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-HELLO WORLD
+HELLO WORLD 你好
 </body>
 </html>

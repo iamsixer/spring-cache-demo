@@ -2,6 +2,6 @@
 .metadata/
 .settings/
 .classpath
-*.log
+*.log 
 /target/
 src/main/resources/myself
